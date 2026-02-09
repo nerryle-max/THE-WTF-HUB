@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WTF Hub – Game-Changing Products</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;600&family=Montserrat:ital,wght@1,400&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- HEADER / HERO -->
+  <header class="hero">
+    <div class="hero-content">
+      <h1>GAME-CHANGING PRODUCTS AHEAD.</h1>
+
+      <p class="subhead">
+        Click with caution. Your life is about to get easier.
+      </p>
+
+      <a href="#shop" class="cta-btn">ENTER AT YOUR OWN RISK</a>
+
+      <p class="micro">
+        Side effects may include saying “Where the F%#K has this been all my life?”
+      </p>
+    </div>
+  </header>
+
+  <!-- CAUTION DIVIDER -->
+  <div class="caution">
+    <span>⚠️ PROCEED WITH CAUTION • LIFE IMPROVEMENTS AHEAD • WTF HUB ⚠️</span>
+  </div>
+
+  <!-- ABOUT -->
+  <section class="about">
+    <h2>So… what the F%#K is this place?</h2>
+
+    <p>
+      WTF Hub is your one-stop shop for ridiculously useful products that make
+      everyday life easier — in the kitchen, at home, at work, with kids, and
+      anywhere chaos likes to live.
+    </p>
+
+    <p>
+      If it doesn’t save time, space, energy, or sanity…  
+      it doesn’t belong here.
+    </p>
+  </section>
+
+  <!-- FEATURES -->
+  <section class="features">
+    <div class="feature">
+      <h3>Problem Solvers Only</h3>
+      <p>Every product earns its place.</p>
+    </div>
+
+    <div class="feature">
+      <h3>Instant “Aha” Factor</h3>
+      <p>You’ll get it the second you see it.</p>
+    </div>
+
+    <div class="feature">
+      <h3>Daily Chaos, Handled</h3>
+      <p>Small fixes. Big relief.</p>
+    </div>
+  </section>
+
+  <!-- SHOP PLACEHOLDER -->
+  <section id="shop" class="shop">
+    <h2>Meet the WTF Heroes</h2>
+    <p class="shop-note">
+      Curated products coming in hot 🔥  
+      (This is where your product grid or Square buy buttons go.)
+    </p>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>
+      WTF Hub — Game-changing products only.  
+      <span class="script">You can thank us later.</span>
+    </p>
+  </footer>
+
+</body>
+</html>
